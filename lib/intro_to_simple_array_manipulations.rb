@@ -28,3 +28,4 @@ end
 
 def using_insert(array, ele)
   array.insert(ele)
+end
