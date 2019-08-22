@@ -1,3 +1,3 @@
-def using_push(array, ele)
-  array.push(ele)
+def using_push(array, next_color)
+  array.push(next_color)
 end
